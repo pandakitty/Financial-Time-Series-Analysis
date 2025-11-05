@@ -26,3 +26,14 @@ This project provides a comprehensive framework for **comparing the historical p
 * **Core Libraries:** Pandas (for time-series data manipulation), NumPy
 * **Data Source:** [e.g., `yfinance` / `pandas-datareader`]
 * **Visualization:** Plotly
+
+---
+
+## 📦 Setup and Installation
+
+Follow these steps to set up the necessary environment and run the analysis notebook on your local machine.
+
+### **1. Clone the Repository**
+```bash
+git clone [https://github.com/pandakitty/Financial-Time-Series-Analysis.git](https://github.com/pandakitty/Financial-Time-Series-Analysis.git)
+cd Financial-Time-Series-Analysis
